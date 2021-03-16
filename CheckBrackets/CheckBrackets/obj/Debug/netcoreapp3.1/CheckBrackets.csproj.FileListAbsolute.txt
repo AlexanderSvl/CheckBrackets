@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\bin\Debug\netcoreapp3.1\CheckBrackets.exe
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\bin\Debug\netcoreapp3.1\CheckBrackets.deps.json
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\bin\Debug\netcoreapp3.1\CheckBrackets.runtimeconfig.json
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\bin\Debug\netcoreapp3.1\CheckBrackets.runtimeconfig.dev.json
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\bin\Debug\netcoreapp3.1\CheckBrackets.dll
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\bin\Debug\netcoreapp3.1\CheckBrackets.pdb
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\obj\Debug\netcoreapp3.1\CheckBrackets.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\obj\Debug\netcoreapp3.1\CheckBrackets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\obj\Debug\netcoreapp3.1\CheckBrackets.AssemblyInfo.cs
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\obj\Debug\netcoreapp3.1\CheckBrackets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\obj\Debug\netcoreapp3.1\CheckBrackets.dll
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\obj\Debug\netcoreapp3.1\CheckBrackets.pdb
+C:\Users\User\source\repos\CheckBrackets\CheckBrackets\obj\Debug\netcoreapp3.1\CheckBrackets.genruntimeconfig.cache
